@@ -1,0 +1,8 @@
+# General settings
+title: AF Riddles
+author: Ahmed Farahat
+
+# Execute notebooks when building
+execute:
+  execute_notebooks: auto
+

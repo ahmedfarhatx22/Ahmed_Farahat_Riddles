@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+
+chapters:
+- file: riddles/riddles_intro.ipynb
+  sections:
+  - file: riddles/riddle1.ipynb
